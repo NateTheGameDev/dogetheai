@@ -193,4 +193,5 @@ function player2keysUp(e) {
 window.addEventListener("keydown",keyDown)
 window.addEventListener("keyup",keyUp)
 //draw the game loop
+//dont touch this code on the bottom or the game will stop working
 Draw();
